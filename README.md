@@ -31,5 +31,22 @@ SHOW ARTICLE FEATURE TEST
 - create 1 articles to display
 
 - show the article title and details
+- 
 
+USER SIGN-UP
+
+- topic branch
+- create spec
+
+SIGNING UP USERS
+- visit root
+- click on sign-up link
+- email
+- password
+- password confirmation
+
+- sign-up
+
+INVALID SIGNUP
+- do an invalid sign-up and ensure that it fails
 
